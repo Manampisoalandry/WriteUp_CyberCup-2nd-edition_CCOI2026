@@ -1,0 +1,29 @@
+{
+  "public_key": {
+    "x": "0x4f588adfe1636a0744e740683ba1226a62a4f968ff6999a6b5d2d04b511ff852",
+    "y": "0x50451d95e5c0eefc3fb1ec28bb45ebdfd97dd5289afc1cdaacdfa5550d4e48ed"
+  },
+  "captured_traffic": [
+    {
+      "seq_id": 4096,
+      "data": "REQ-ID:4096|CMD:AUTH",
+      "signature": {
+        "r": "0x23ae8f9830cfa0b8281fbb889a9149960744d8f4e0c2d7b6bfdd6976c74e0908",
+        "s": "0xa88fe209f2063a27e7a2338353744133eccdf849a5295329be2c466604c097a8"
+      }
+    },
+    {
+      "seq_id": 4097,
+      "data": "REQ-ID:4097|CMD:KEY_ROTATION",
+      "signature": {
+        "r": "0xd16cd10272ceab1e290dc25e6ab281fabbb49cf42e18a36ef31727b2894ca700",
+        "s": "0x867758a6a954e10916b72ec9fe87c7fd932be5ef4b1c5ff79550b62cb11b7195"
+      }
+    }
+  ],
+  "encrypted_secret": {
+    "method": "AES-256-CBC",
+    "iv": "6e898ec479e459f41bb27ac5eb719a30",
+    "ciphertext": "a6e0985903391a4bdbd514df0a1d2c7f8600b9b4d6a8e1e28b7e89d5b986cbc99d206a61141003e78987f231c65b49e0"
+  }
+}

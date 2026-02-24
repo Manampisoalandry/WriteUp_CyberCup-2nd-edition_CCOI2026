@@ -1,0 +1,1 @@
+La signature des jeux de PS3 était vraiment impressionnante mais pas assez pour moi. Du coup j'ai décidé de l'améliorer. D'ailleurs, j'ai réutilisé le secret de la signature (une fois digéré) comme clé pour chiffrer mon super flag :) Flag Format: CCOI26{...}
